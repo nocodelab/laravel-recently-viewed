@@ -1,5 +1,5 @@
 {
-    "name": "yaroslawww/laravel-recently-viewed",
+    "name": "nocodelab/laravel-recently-viewed",
     "description": "Package to make quickly recently viewed functionality",
     "keywords": [
         "recently-viewed",
@@ -16,8 +16,8 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0"
+        "php": "^8.1",
+        "illuminate/support": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.4",
